@@ -15,6 +15,8 @@ Buscando um mundo melhor através da Tecnologia.
 - Pós Graduado em Arquitetura de Sistemas .NET com Azure, FIAP. 2024
 
 ☁️ Certificações
+- AWS Certified Cloud Practitioner 
+- Oracle Cloud Infrastructure 2024 Certified Foundations Associate 
 - Microsoft Certified: Azure Fundamentals, AZ-900
 - Microsoft Certified: Azure Administrator Associate, AZ-104
 - Microsoft Certified: Azure Developer Associate, AZ-204
